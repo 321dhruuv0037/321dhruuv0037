@@ -1,8 +1,8 @@
-<h3 align = "center">Hi there! My name is Dhruuv and I'm currently a student pursuing a degree in Information Technology at Mumbai University.</h3>
+<h3 align = "center">Hi there! My name is Dhruuv and I have completed my Bachelor of Engineering in Information Technology, from Mumbai University.</h3>
 <br>
  
 # 💫 About Me:
- I've always been fascinated by technology and how it can be used to solve real-world problems.Throughout my academic journey, I've developed a foundation in programming languages like Python, Java, and C, as well as experience with various software development tools.   I've also had the opportunity to work on several group projects, which has allowed me to hone my collaboration and communication skills.
+ I've always been fascinated by technology and how it can be used to solve real-world problems.Throughout my academic journey, I've developed a foundation in programming languages like Python, Java, and C, as well as experience with various software development tools. I've also had the opportunity to work on several group projects, which has allowed me to hone my collaboration and communication skills.
 <br>
 
 # 🌐 Socials:
